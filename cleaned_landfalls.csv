@@ -1,0 +1,167 @@
+Name,State,Saffir-Simpson,Date of closest approach,Year
+Baker,Alabama,Category 1 hurricane,31-Aug,1950.0
+Camille,Alabama,Category 1 hurricane,18-Aug,1969.0
+Eloise,Alabama,Category 1 hurricane,23-Sep,1975.0
+Frederic,Alabama,Category 4 hurricane,13-Sep,1979.0
+Elena,Alabama,Category 3 hurricane,2-Sep,1985.0
+Opal,Alabama,Category 1 hurricane,4-Oct,1995.0
+Danny,Alabama,Category 1 hurricane,19-Jul,1997.0
+Ivan,Alabama,Category 3 hurricane,16-Sep,2004.0
+Dennis,Alabama,Category 1 hurricane,10-Jul,2005.0
+Katrina,Alabama,Category 1 hurricane,29-Aug,2005.0
+Carol,Conneticut,Category 3 hurricane,31-Aug,1954.0
+Gloria,Conneticut,Category 1 hurricane,27-Sep,1985.0
+Bob,Conneticut,Category 2 hurricane,19-Aug,1991.0
+d,Florida,Category 3 hurricane,23-Aug,1851.0
+"""Labor Day""",Florida,Category 5 hurricane,3-Sep,1935.0
+Easy,Florida,Category 3 hurricane,5-Sep,1950.0
+King,Florida,Category 4 hurricane,18-Oct,1950.0
+Florence,Florida,Category 1 hurricane,26-Sep,1953.0
+Hazel,Florida,Category 1 hurricane,9-Oct,1953.0
+Flossy,Florida,Category 1 hurricane,24-Sep,1956.0
+Donna,Florida,Category 4 hurricane,10-Sep,1960.0
+Cleo,Florida,Category 2 hurricane,27-Aug,1964.0
+Dora,Florida,Category 2 hurricane,10-Sep,1964.0
+Isbell,Florida,Category 2 hurricane,14-Oct,1964.0
+Betsy,Florida,Category 3 hurricane,8-Sep,1965.0
+Alma,Florida,Category 2 hurricane,9-Jun,1966.0
+Inez,Florida,Category 1 hurricane,8-Oct,1966.0
+Gladys,Florida,Category 2 hurricane,19-Oct,1968.0
+Agnes,Florida,Category 1 hurricane,19-Jun,1972.0
+Eloise,Florida,Category 3 hurricane,23-Sep,1975.0
+David,Florida,Category 2 hurricane,3-Sep,1979.0
+Elena,Florida,Category 3 hurricane,1-Sep,1985.0
+Kate,Florida,Category 2 hurricane,21-Nov,1985.0
+Floyd,Florida,Category 1 hurricane,12-Oct,1987.0
+Andrew,Florida,Category 5 hurricane,24-Aug,1992.0
+Erin,Florida,Category 2 hurricane,3-Aug,1995.0
+Opal,Florida,Category 3 hurricane,4-Oct,1995.0
+Earl,Florida,Category 1 hurricane,3-Sep,1998.0
+Georges,Florida,Category 2 hurricane,25-Sep,1998.0
+Irene,Florida,Category 1 hurricane,15-Oct,1999.0
+Charley,Florida,Category 4 hurricane,13-Aug,2004.0
+Frances,Florida,Category 2 hurricane,5-Sep,2004.0
+Ivan,Florida,Category 3 hurricane,16-Sep,2004.0
+Jeanne,Florida,Category 3 hurricane,26-Sep,2004.0
+Dennis,Florida,Category 3 hurricane,10-Jul,2005.0
+Katrina,Florida,Category 1 hurricane,25-Aug,2005.0
+Rita,Florida,Category 1 hurricane,20-Sep,2005.0
+Wilma,Florida,Category 3 hurricane,24-Oct,2005.0
+Hermine,Florida,Category 1 hurricane,2-Sep,2016.0
+Matthew,Florida,Category 2 hurricane,7-Oct,2016.0
+Irma,Florida,Category 4 hurricane,10-Sep,2017.0
+Michael,Florida,Category 5 hurricane,10-Oct,2018.0
+"""Labor Day""",Georgia,Category 1 hurricane,5-Sep,1935.0
+David,Georgia,Category 2 hurricane,4-Sep,1979.0
+Kate,Georgia,Category 1 hurricane,22-Nov,1985.0
+Matthew,Georgia,Category 1 hurricane,8-Oct,2016.0
+Michael,Georgia,Category 2 hurricane,10-Oct,2018.0
+Flossy,Louisiana,Category 2 hurricane,24-Sep,1956.0
+Audrey,Louisiana,Category 3 hurricane,27-Jun,1957.0
+Ethel,Louisiana,Category 1 hurricane,15-Sep,1964.0
+Hilda,Louisiana,Category 2 hurricane,3-Oct,1964.0
+Betsy,Louisiana,Category 4 hurricane,10-Sep,1965.0
+Camille,Louisiana,Category 5 hurricane,17-Aug,1969.0
+Edith,Louisiana,Category 2 hurricane,16-Sep,1971.0
+Carmen,Louisiana,Category 3 hurricane,8-Sep,1974.0
+Babe,Louisiana,Category 1 hurricane,5-Sep,1977.0
+Bob,Louisiana,Category 1 hurricane,11-Sep,1979.0
+Danny,Louisiana,Category 1 hurricane,15-Aug,1985.0
+Juan,Louisiana,Category 1 hurricane,28-Oct,1985.0
+Florence,Louisiana,Category 1 hurricane,10-Sep,1988.0
+Andrew,Louisiana,Category 3 hurricane,26-Aug,1992.0
+Danny,Louisiana,Category 1 hurricane,18-Jul,1997.0
+Lili,Louisiana,Category 1 hurricane,3-Oct,2002.0
+Cindy,Louisiana,Category 1 hurricane,6-Jul,2005.0
+Katrina,Louisiana,Category 3 hurricane,29-Aug,2005.0
+Rita,Louisiana,Category 3 hurricane,24-Sep,2005.0
+Humberto,Louisiana,Category 1 hurricane,13-Sep,2007.0
+Gustav,Louisiana,Category 2 hurricane,1-Sep,2008.0
+Isaac,Louisiana,Category 1 hurricane,28-Aug,2012.0
+Nate,Louisiana,Category 1 hurricane,7-Oct,2017.0
+Barry,Louisiana,Category 1 hurricane,13-Jul,2019.0
+Gerda,Maine,Category 1 hurricane,10-Sep,1969.0
+Gloria,Maine,Category 1 hurricane,27-Sep,1985.0
+Carol,Massechusettes,Category 2 hurricane,31-Aug,1954.0
+Edna,Massechusettes,Category 2 hurricane,11-Sep,1954.0
+Donna,Massechusettes,Category 1 hurricane,12-Sep,1960.0
+Bob,Massechusettes,Category 2 hurricane,19-Aug,1991.0
+Ethel,Mississippi,Category 1 hurricane,15-Sep,1960.0
+Camille,Mississippi,Category 5 hurricane,18-Aug,1969.0
+Frederic,Mississippi,Category 3 hurricane,13-Sep,1979.0
+Elena,Mississippi,Category 3 hurricane,2-Sep,1985.0
+Georges,Mississippi,Category 2 hurricane,29-Sep,1998.0
+Katrina,Mississippi,Category 3 hurricane,29-Aug,2005.0
+Nate,Mississippi,Category 1 hurricane,8-Oct,2017.0
+Gloria,New Hampshire,Category 2 hurricane,27-Sep,1985.0
+Carol,New York,Category 3 hurricane,31-Aug,1954.0
+Edna,New York,Category 1 hurricane,11-Sep,1954.0
+Donna,New York,Category 2 hurricane,12-Sep,1960.0
+Agnes,New York,Category 1 hurricane,22-Jun,1972.0
+Belle,New York,Category 1 hurricane,10-Aug,1976.0
+Gloria,New York,Category 2 hurricane,27-Sep,1985.0
+Bob,New York,Category 2 hurricane,19-Aug,1991.0
+Sandy,New York,Category 1 hurricane,29-Oct,2012.0
+Barbara,North Carolina,Category 1 hurricane,14-Aug,1953.0
+Carol,North Carolina,Category 1 hurricane,31-Aug,1954.0
+Edna,North Carolina,Category 1 hurricane,11-Sep,1954.0
+Hazel,North Carolina,Category 4 hurricane,15-Oct,1954.0
+Connie,North Carolina,Category 2 hurricane,12-Aug,1955.0
+Ione,North Carolina,Category 2 hurricane,19-Sep,1955.0
+Helene,North Carolina,Category 3 hurricane,27-Sep,1958.0
+Donna,North Carolina,Category 2 hurricane,12-Sep,1960.0
+Ginger,North Carolina,Category 1 hurricane,30-Sep,1971.0
+Diana,North Carolina,Category 2 hurricane,13-Sep,1984.0
+Gloria,North Carolina,Category 3 hurricane,27-Sep,1985.0
+Charley,North Carolina,Category 1 hurricane,17-Aug,1986.0
+Hugo,North Carolina,Category 1 hurricane,22-Sep,1989.0
+Emily,North Carolina,Category 3 hurricane,31-Aug,1993.0
+Bertha,North Carolina,Category 2 hurricane,12-Jul,1996.0
+Fran,North Carolina,Category 3 hurricane,6-Sep,1996.0
+Bonnie,North Carolina,Category 2 hurricane,27-Aug,1998.0
+Floyd,North Carolina,Category 2 hurricane,16-Sep,1999.0
+Irene,North Carolina,Category 2 hurricane,18-Oct,1999.0
+Isabel,North Carolina,Category 2 hurricane,18-Sep,2003.0
+Alex,North Carolina,Category 1 hurricane,3-Aug,2004.0
+Charley,North Carolina,Category 1 hurricane,14-Aug,2004.0
+Ophelia,North Carolina,Category 1 hurricane,14-Sep,2005.0
+Irene,North Carolina,Category 1 hurricane,27-Aug,2011.0
+Arthur,North Carolina,Category 2 hurricane,4-Jul,2014.0
+Matthew,North Carolina,Category 1 hurricane,8-Oct,2016.0
+Florence,North Carolina,Category 1 hurricane,14-Sep,2018.0
+Dorian,North Carolina,Category 1 hurricane,6-Sep,2019.0
+Carol,Rhode Island,Category 3 hurricane,31-Aug,1954.0
+Edna,Rhode Island,Category 1 hurricane,11-Sep,1954.0
+Donna,Rhode Island,Category 1 hurricane,12-Sep,1960.0
+Bob,Rhode Island,Category 2 hurricane,19-Aug,1991.0
+Able,South Carolina,Category 2 hurricane,31-Aug,1952.0
+Hazel,South Carolina,Category 4 hurricane,15-Oct,1954.0
+Cindy,South Carolina,Category 1 hurricane,9-Jul,1959.0
+Gracie,South Carolina,Category 4 hurricane,29-Sep,1959.0
+David,South Carolina,Category 2 hurricane,4-Sep,1979.0
+Bob,South Carolina,Category 1 hurricane,25-Jul,1985.0
+Hugo,South Carolina,Category 4 hurricane,22-Sep,1989.0
+Charley,South Carolina,Category 1 hurricane,14-Aug,2004.0
+Gaston,South Carolina,Category 1 hurricane,29-Aug,2004.0
+Matthew,South Carolina,Category 1 hurricane,8-Oct,2016.0
+Audrey,Texas,Category 2 hurricane,27-Jun,1957.0
+Debra,Texas,Category 1 hurricane,25-Jul,1959.0
+Carla,Texas,Category 4 hurricane,11-Sep,1961.0
+Beulah,Texas,Category 3 hurricane,20-Sep,1967.0
+Celia,Texas,Category 3 hurricane,3-Aug,1970.0
+Fern,Texas,Category 1 hurricane,10-Sep,1971.0
+Allen,Texas,Category 3 hurricane,10-Aug,1980.0
+Alicia,Texas,Category 3 hurricane,18-Aug,1983.0
+Bonnie,Texas,Category 1 hurricane,28-Jun,1986.0
+Chantal,Texas,Category 1 hurricane,1-Aug,1989.0
+Jerry,Texas,Category 1 hurricane,16-Oct,1989.0
+Bret,Texas,Category 3 hurricane,23-Aug,1999.0
+Claudette,Texas,Category 1 hurricane,15-Jul,2003.0
+Rita,Texas,Category 2 hurricane,24-Sep,2005.0
+Humberto,Texas,Category 1 hurricane,13-Sep,2007.0
+Dolly,Texas,Category 1 hurricane,23-Jul,2008.0
+Ike,Texas,Category 2 hurricane,13-Sep,2008.0
+Harvey,Texas,Category 4 hurricane,26-Aug,2017.0
+Connie,Virginia,Category 1 hurricane,12-Aug,1955.0
+Donna,Virginia,Category 1 hurricane,12-Sep,1960.0
+Isabel,Virginia,Category 1 hurricane,19-Sep,2003.0
